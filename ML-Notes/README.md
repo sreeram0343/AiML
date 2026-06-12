@@ -5,3 +5,4 @@ This folder contains notes, concepts, and implementations related to Machine Lea
 ## Contents
 - [Foundations & Modern AI](ml_foundations.md)
 - [Supervised Learning](supervised-learning.md)
+- [Unsupervised Learning](unsupervised-learning.md)
